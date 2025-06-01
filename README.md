@@ -2,7 +2,7 @@
 
 # 🏦 Bank Customer Churn Prediction
 
-This project aims to predict whether a customer will churn (i.e., leave the bank) using historical customer data. It demonstrates a full machine learning pipeline—from exploratory data analysis (EDA) to model evaluation and real-time prediction—using Python and scikit-learn.
+This project aims to predict whether a customer will churn (i.e., leave the bank) using historical customer data. It demonstrates a full machine learning pipeline from exploratory data analysis (EDA) to model evaluation and real-time prediction using Python and scikit-learn.
 
 ---
 
@@ -71,13 +71,4 @@ The dataset includes the following features:
 
 ---
 
-## 🔍 Sample Output
 
-```bash
-Logistic Regression:
- - Churn Prediction: Yes
- - Churn Probability: 78.52%
-
-Random Forest:
- - Churn Prediction: Yes
- - Churn Probability: 85.13%
