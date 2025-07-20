@@ -81,7 +81,9 @@ The dataset contains **10,000 customer records** with the following features:
 
 ---
 
-⭐ **Project by: Ishan Kapadia**
+## 👨‍💻 **Author**  
+**Ishan Kapadia** — Data Scientist
+
 
 
 
